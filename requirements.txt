@@ -1,0 +1,5 @@
+Flask
+deepface
+tensorflow
+tf-keras
+opencv-python==4.10.0.84
